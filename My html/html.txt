@@ -1,0 +1,26 @@
+<html>
+<title>Minecraft</title>
+<h1><center>Minecraft</h1></center>
+<h2>First type To Start Minecraft</h2>
+<img src = "C:\Users\sugthang\OneDrive - Cisco\Desktop\My html\download (1).jpg"Length = "300" width = "300">
+<h3>A Complete Beginner's Guide to Surviving in Minecraft.</h3>
+<ul><h3>
+<li>Step One: Build a Crafting Table.</li>
+<li>Step Two: Build Tools.</li>
+<li>Step Three: Build a Shelter to Survive the Night.</li>
+<li>Step Four: Understanding the Hunger Meter and Gathering Food.</li>
+</ul></h3>
+<h3>Survived Your First Night?<br>
+Essential Tips and Tricks for Surviving in Minecraft.</h3>
+<h2>Second type To Start Minecraft</h2>
+<ul><h3>
+<li>Step 1: Mark Your Spawn Point.</li>
+<li>Step 2: Locate Trees.</li>
+<li>Step 3: Punch Those Trees!</li>
+<li>Step 4: Start Your House.</li>
+<li>Step 5: Build a Crafting Table.</li>
+<li>Step 6: Make a Pickaxe.</li>
+<li>Step 7: Mine Some Stone.</li>
+<li>Step 8: Make a Furnace.</li>
+</ul></h3>
+</html>
